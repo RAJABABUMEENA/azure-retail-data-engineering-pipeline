@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,unit_price,last_modified_date
+1,Prime Product 1,Electronics,Apex,45212.45,2026-06-28 00:00:00
+2,Stride Product 2,Electronics,Apex,65954.73,2025-11-01 00:00:00
+3,Stride Product 3,Electronics,Nova,17061.05,2025-01-21 00:00:00
+4,Apex Product 4,Electronics,Zenith,40023.58,2026-05-05 00:00:00
+5,Nova Product 5,Electronics,Zenith,47996.83,2026-06-03 00:00:00
+6,Nova Product 6,Electronics,Nexa,66239.55,2025-06-01 00:00:00
+7,Orbit Product 7,Electronics,Nova,86805.17,2025-08-07 00:00:00
+8,Nova Product 8,Electronics,Prime,76366.56,2025-01-15 00:00:00
+9,Nova Product 9,Electronics,Nova,55992.43,2026-03-13 00:00:00
+10,Apex Product 10,Electronics,Nexa,52589.11,2026-02-27 00:00:00
+11,Prime Product 11,Electronics,Aura,54345.32,2025-01-12 00:00:00
+12,Nova Product 12,Electronics,Nova,49133.3,2026-01-18 00:00:00
+13,Aura Product 13,Electronics,Aura,5482.75,2025-08-13 00:00:00
+14,Orbit Product 14,Electronics,Stride,62890.93,2025-10-25 00:00:00
+15,Stride Product 15,Electronics,Orbit,64511.86,2025-04-29 00:00:00
+16,Stride Product 16,Electronics,Orbit,46195.36,2026-03-21 00:00:00
+17,Nexa Product 17,Electronics,Stride,78353.33,2025-08-09 00:00:00
+18,Aura Product 18,Electronics,Apex,60567.45,2026-04-03 00:00:00
+19,Nexa Product 19,Electronics,Aura,32734.42,2025-03-22 00:00:00
+20,Nexa Product 20,Electronics,Prime,1918.54,2025-11-17 00:00:00
+21,Nexa Product 21,Electronics,Zenith,5464.67,2025-06-19 00:00:00
+22,Nexa Product 22,Electronics,Zenith,31758.07,2026-06-11 00:00:00
+23,Prime Product 23,Electronics,Prime,41669.16,2025-10-31 00:00:00
+24,Nexa Product 24,Electronics,Orbit,15142.37,2026-01-28 00:00:00
+25,Aura Product 25,Electronics,Apex,17160.15,2025-02-16 00:00:00
+26,Aura Product 26,Electronics,Orbit,20833.49,2026-01-04 00:00:00
+27,Nova Product 27,Electronics,Prime,70278.12,2025-02-25 00:00:00
+28,Nexa Product 28,Electronics,Aura,69449.21,2025-07-16 00:00:00
+29,Nexa Product 29,Electronics,Prime,34556.07,2025-05-02 00:00:00
+30,Apex Product 30,Electronics,Stride,15635.94,2025-01-02 00:00:00
+31,Nova Product 31,Electronics,Apex,10114.12,2025-11-16 00:00:00
+32,Stride Product 32,Electronics,Zenith,7977.57,2025-05-12 00:00:00
+33,Aura Product 33,Electronics,Prime,35305.44,2025-10-07 00:00:00
+34,Zenith Product 34,Electronics,Zenith,4240.99,2026-02-21 00:00:00
+35,Nova Product 35,Electronics,Prime,30126.11,2025-04-08 00:00:00
+36,Apex Product 36,Electronics,Apex,86542.76,2026-01-22 00:00:00
+37,Orbit Product 37,Electronics,Zenith,45748.29,2025-06-11 00:00:00
+38,Prime Product 38,Electronics,Aura,74063.62,2025-06-30 00:00:00
+39,Nexa Product 39,Electronics,Nova,11763.55,2025-11-11 00:00:00
+40,Stride Product 40,Electronics,Orbit,24235.88,2025-12-07 00:00:00
+41,Stride Product 41,Electronics,Prime,85196.2,2025-12-24 00:00:00
+42,Aura Product 42,Electronics,Zenith,34611.14,2025-04-17 00:00:00
+43,Prime Product 43,Electronics,Aura,58408.29,2025-11-12 00:00:00
+44,Nova Product 44,Electronics,Nova,87853.99,2025-05-24 00:00:00
+45,Nexa Product 45,Electronics,Prime,49637.28,2025-05-31 00:00:00
+46,Nova Product 46,Electronics,Apex,27584.33,2026-06-01 00:00:00
+47,Nexa Product 47,Electronics,Nova,47944.57,2025-02-25 00:00:00
+48,Nova Product 48,Electronics,Aura,5058.15,2025-08-14 00:00:00
+49,Nexa Product 49,Electronics,Aura,10245.43,2025-08-28 00:00:00
+50,Stride Product 50,Electronics,Orbit,793.32,2025-05-14 00:00:00
+51,Prime Product 51,Electronics,Prime,79595.27,2026-03-05 00:00:00
+52,Stride Product 52,Electronics,Prime,60463.55,2025-09-23 00:00:00
+53,Aura Product 53,Electronics,Nexa,26953.93,2026-01-28 00:00:00
+54,Apex Product 54,Electronics,Aura,20020.35,2025-07-30 00:00:00
+55,Nexa Product 55,Electronics,Stride,61523.43,2026-05-04 00:00:00
+56,Aura Product 56,Electronics,Nova,82768.96,2026-02-02 00:00:00
+57,Stride Product 57,Electronics,Aura,27026.65,2025-07-01 00:00:00
+58,Apex Product 58,Electronics,Nova,29041.09,2026-06-09 00:00:00
+59,Aura Product 59,Electronics,Orbit,76902.53,2026-04-17 00:00:00
+60,Orbit Product 60,Electronics,Apex,80418.82,2025-11-19 00:00:00
+61,Prime Product 61,Electronics,Orbit,82275.19,2025-01-09 00:00:00
+62,Zenith Product 62,Electronics,Nexa,26488.91,2025-11-19 00:00:00
+63,Nova Product 63,Electronics,Orbit,10959.08,2026-01-12 00:00:00
+64,Zenith Product 64,Electronics,Nexa,39682.78,2025-07-18 00:00:00
+65,Stride Product 65,Electronics,Aura,26723.47,2025-03-20 00:00:00
+66,Apex Product 66,Electronics,Prime,79564.42,2025-11-04 00:00:00
+67,Orbit Product 67,Electronics,Nexa,3440.65,2026-03-13 00:00:00
+68,Stride Product 68,Electronics,Nova,57103.16,2025-06-24 00:00:00
+69,Zenith Product 69,Electronics,Zenith,81569.4,2025-09-06 00:00:00
+70,Stride Product 70,Electronics,Nova,87902.83,2025-01-01 00:00:00
+71,Apex Product 71,Electronics,Nova,58563.23,2026-01-19 00:00:00
+72,Stride Product 72,Electronics,Nova,85499.58,2026-04-18 00:00:00
+73,Prime Product 73,Electronics,Nexa,6947.0,2026-02-28 00:00:00
+74,Prime Product 74,Electronics,Prime,32430.16,2025-08-23 00:00:00
+75,Prime Product 75,Electronics,Orbit,932.02,2025-01-25 00:00:00
+76,Zenith Product 76,Electronics,Stride,88308.36,2025-09-26 00:00:00
+77,Apex Product 77,Electronics,Orbit,81258.97,2026-05-28 00:00:00
+78,Apex Product 78,Electronics,Apex,2669.52,2025-02-15 00:00:00
+79,Aura Product 79,Electronics,Aura,1778.22,2025-04-27 00:00:00
+80,Nova Product 80,Electronics,Zenith,33121.21,2026-04-02 00:00:00
+81,Zenith Product 81,Electronics,Orbit,23378.64,2025-11-06 00:00:00
+82,Nexa Product 82,Electronics,Stride,76245.87,2025-04-03 00:00:00
+83,Aura Product 83,Electronics,Nexa,14568.52,2025-01-14 00:00:00
+84,Orbit Product 84,Electronics,Nexa,71188.85,2025-08-12 00:00:00
+85,Prime Product 85,Electronics,Orbit,49967.2,2025-11-21 00:00:00
+86,Orbit Product 86,Electronics,Apex,34057.65,2026-04-03 00:00:00
+87,Stride Product 87,Electronics,Apex,13241.92,2026-04-27 00:00:00
+88,Apex Product 88,Electronics,Nova,89791.56,2025-09-07 00:00:00
+89,Zenith Product 89,Electronics,Zenith,55675.05,2025-08-19 00:00:00
+90,Stride Product 90,Electronics,Nexa,39627.49,2026-05-23 00:00:00
+91,Apex Product 91,Electronics,Nexa,33494.81,2026-02-28 00:00:00
+92,Nexa Product 92,Electronics,Nexa,81528.68,2025-04-25 00:00:00
+93,Prime Product 93,Electronics,Nexa,73933.08,2026-01-07 00:00:00
+94,Apex Product 94,Electronics,Prime,73034.04,2026-01-25 00:00:00
+95,Nexa Product 95,Electronics,Orbit,55514.43,2025-05-08 00:00:00
+96,Aura Product 96,Electronics,Prime,79931.9,2026-06-18 00:00:00
+97,Aura Product 97,Electronics,Aura,27039.16,2025-06-11 00:00:00
+98,Aura Product 98,Electronics,Apex,63377.0,2025-10-27 00:00:00
+99,Prime Product 99,Electronics,Apex,36488.63,2025-09-27 00:00:00
+100,Prime Product 100,Electronics,Zenith,54058.89,2026-01-13 00:00:00
+101,Orbit Product 101,Home & Kitchen,Apex,89833.05,2026-05-07 00:00:00
+102,Apex Product 102,Home & Kitchen,Nova,88608.55,2025-08-03 00:00:00
+103,Orbit Product 103,Home & Kitchen,Prime,46207.82,2025-07-29 00:00:00
+104,Apex Product 104,Home & Kitchen,Prime,51710.63,2026-02-14 00:00:00
+105,Apex Product 105,Home & Kitchen,Stride,80773.36,2026-06-03 00:00:00
+106,Apex Product 106,Home & Kitchen,Apex,88708.37,2026-05-11 00:00:00
+107,Nexa Product 107,Home & Kitchen,Apex,70106.91,2026-02-15 00:00:00
+108,Prime Product 108,Home & Kitchen,Nexa,6005.82,2026-01-19 00:00:00
+109,Apex Product 109,Home & Kitchen,Orbit,29138.18,2026-02-23 00:00:00
+110,Nexa Product 110,Home & Kitchen,Stride,80705.13,2026-05-26 00:00:00
+111,Zenith Product 111,Home & Kitchen,Prime,69185.47,2025-01-06 00:00:00
+112,Nexa Product 112,Home & Kitchen,Zenith,66838.64,2025-11-17 00:00:00
+113,Aura Product 113,Home & Kitchen,Nova,60161.9,2025-01-19 00:00:00
+114,Nova Product 114,Home & Kitchen,Zenith,37460.46,2025-11-11 00:00:00
+115,Orbit Product 115,Home & Kitchen,Prime,36380.23,2025-08-04 00:00:00
+116,Nova Product 116,Home & Kitchen,Aura,72831.58,2025-06-16 00:00:00
+117,Prime Product 117,Home & Kitchen,Orbit,26545.16,2026-05-01 00:00:00
+118,Aura Product 118,Home & Kitchen,Nexa,61681.14,2026-01-22 00:00:00
+119,Aura Product 119,Home & Kitchen,Nexa,65398.84,2025-11-06 00:00:00
+120,Nexa Product 120,Home & Kitchen,Stride,76032.36,2026-04-26 00:00:00
+121,Nexa Product 121,Home & Kitchen,Apex,28890.72,2025-02-23 00:00:00
+122,Zenith Product 122,Home & Kitchen,Aura,66807.75,2025-12-19 00:00:00
+123,Prime Product 123,Home & Kitchen,Apex,9717.12,2025-03-27 00:00:00
+124,Apex Product 124,Home & Kitchen,Stride,12553.85,2025-05-08 00:00:00
+125,Aura Product 125,Home & Kitchen,Aura,37646.64,2025-04-11 00:00:00
+126,Nova Product 126,Home & Kitchen,Nova,5111.04,2025-10-24 00:00:00
+127,Stride Product 127,Home & Kitchen,Zenith,85299.69,2025-12-09 00:00:00
+128,Nexa Product 128,Home & Kitchen,Orbit,81184.34,2026-02-16 00:00:00
+129,Zenith Product 129,Home & Kitchen,Zenith,4545.69,2025-08-29 00:00:00
+130,Orbit Product 130,Home & Kitchen,Orbit,75471.31,2026-05-27 00:00:00
+131,Prime Product 131,Home & Kitchen,Nova,45871.34,2025-07-23 00:00:00
+132,Stride Product 132,Home & Kitchen,Nova,63220.37,2025-03-27 00:00:00
+133,Stride Product 133,Home & Kitchen,Prime,79839.77,2025-01-20 00:00:00
+134,Zenith Product 134,Home & Kitchen,Aura,51990.16,2025-03-11 00:00:00
+135,Orbit Product 135,Home & Kitchen,Stride,10600.99,2025-08-31 00:00:00
+136,Zenith Product 136,Home & Kitchen,Apex,380.69,2025-08-14 00:00:00
+137,Nova Product 137,Home & Kitchen,Zenith,44797.4,2026-04-11 00:00:00
+138,Nexa Product 138,Home & Kitchen,Stride,85437.51,2025-03-10 00:00:00
+139,Orbit Product 139,Home & Kitchen,Aura,51599.08,2025-05-23 00:00:00
+140,Apex Product 140,Home & Kitchen,Aura,33657.58,2026-06-19 00:00:00
+141,Orbit Product 141,Home & Kitchen,Aura,2927.34,2025-01-16 00:00:00
+142,Stride Product 142,Home & Kitchen,Orbit,82359.9,2025-08-20 00:00:00
+143,Prime Product 143,Home & Kitchen,Prime,29544.03,2025-04-19 00:00:00
+144,Stride Product 144,Home & Kitchen,Zenith,63473.25,2025-10-18 00:00:00
+145,Orbit Product 145,Home & Kitchen,Nova,62526.21,2026-06-15 00:00:00
+146,Aura Product 146,Home & Kitchen,Zenith,22960.4,2025-05-04 00:00:00
+147,Nova Product 147,Home & Kitchen,Prime,5879.41,2025-07-21 00:00:00
+148,Nexa Product 148,Home & Kitchen,Nova,34741.28,2025-09-02 00:00:00
+149,Zenith Product 149,Home & Kitchen,Stride,28643.22,2026-03-12 00:00:00
+150,Prime Product 150,Home & Kitchen,Orbit,63067.04,2026-06-21 00:00:00
+151,Prime Product 151,Home & Kitchen,Orbit,73806.46,2025-02-22 00:00:00
+152,Nova Product 152,Home & Kitchen,Prime,20135.72,2025-09-24 00:00:00
+153,Zenith Product 153,Home & Kitchen,Orbit,47610.56,2026-02-15 00:00:00
+154,Stride Product 154,Home & Kitchen,Orbit,3797.66,2025-01-05 00:00:00
+155,Aura Product 155,Home & Kitchen,Apex,19399.89,2026-03-16 00:00:00
+156,Orbit Product 156,Home & Kitchen,Zenith,68593.28,2025-05-13 00:00:00
+157,Zenith Product 157,Home & Kitchen,Prime,71435.84,2025-10-10 00:00:00
+158,Nova Product 158,Home & Kitchen,Nova,69908.94,2026-06-18 00:00:00
+159,Aura Product 159,Home & Kitchen,Prime,12942.56,2025-12-13 00:00:00
+160,Nexa Product 160,Home & Kitchen,Orbit,49659.47,2026-06-24 00:00:00
+161,Aura Product 161,Home & Kitchen,Nova,38129.35,2025-11-25 00:00:00
+162,Stride Product 162,Home & Kitchen,Zenith,89234.04,2025-04-25 00:00:00
+163,Nexa Product 163,Home & Kitchen,Orbit,58917.18,2026-01-13 00:00:00
+164,Aura Product 164,Home & Kitchen,Zenith,84176.91,2025-12-02 00:00:00
+165,Aura Product 165,Home & Kitchen,Orbit,13208.72,2025-06-19 00:00:00
+166,Apex Product 166,Home & Kitchen,Nova,40659.96,2025-02-11 00:00:00
+167,Orbit Product 167,Home & Kitchen,Prime,69477.94,2025-12-20 00:00:00
+168,Orbit Product 168,Home & Kitchen,Prime,33201.02,2025-11-11 00:00:00
+169,Prime Product 169,Home & Kitchen,Apex,56979.89,2026-02-26 00:00:00
+170,Aura Product 170,Home & Kitchen,Nova,46125.44,2025-03-10 00:00:00
+171,Apex Product 171,Home & Kitchen,Nexa,89273.86,2025-10-21 00:00:00
+172,Zenith Product 172,Home & Kitchen,Nexa,15771.45,2026-03-23 00:00:00
+173,Nexa Product 173,Home & Kitchen,Nexa,84190.08,2026-05-01 00:00:00
+174,Nova Product 174,Home & Kitchen,Apex,36230.15,2026-05-28 00:00:00
+175,Orbit Product 175,Home & Kitchen,Orbit,42198.17,2025-04-26 00:00:00
+176,Stride Product 176,Home & Kitchen,Zenith,47643.88,2025-04-05 00:00:00
+177,Zenith Product 177,Home & Kitchen,Aura,23992.18,2025-11-10 00:00:00
+178,Zenith Product 178,Home & Kitchen,Orbit,86733.62,2025-09-10 00:00:00
+179,Stride Product 179,Home & Kitchen,Nexa,82046.13,2025-05-08 00:00:00
+180,Stride Product 180,Home & Kitchen,Nova,87564.52,2025-02-25 00:00:00
+181,Orbit Product 181,Home & Kitchen,Nova,89722.22,2025-03-20 00:00:00
+182,Zenith Product 182,Home & Kitchen,Nexa,60330.54,2025-07-04 00:00:00
+183,Prime Product 183,Home & Kitchen,Prime,40732.94,2026-02-08 00:00:00
+184,Prime Product 184,Home & Kitchen,Orbit,76587.44,2025-02-05 00:00:00
+185,Prime Product 185,Home & Kitchen,Zenith,2287.87,2025-02-27 00:00:00
+186,Nova Product 186,Home & Kitchen,Orbit,75120.2,2025-05-25 00:00:00
+187,Nexa Product 187,Home & Kitchen,Nova,44830.15,2026-04-22 00:00:00
+188,Apex Product 188,Home & Kitchen,Apex,60637.82,2026-06-24 00:00:00
+189,Zenith Product 189,Home & Kitchen,Aura,33757.04,2025-08-28 00:00:00
+190,Aura Product 190,Home & Kitchen,Orbit,33269.79,2025-01-25 00:00:00
+191,Aura Product 191,Home & Kitchen,Prime,2998.79,2025-01-07 00:00:00
+192,Zenith Product 192,Home & Kitchen,Stride,38226.48,2026-04-14 00:00:00
+193,Nova Product 193,Home & Kitchen,Prime,36839.62,2025-08-31 00:00:00
+194,Apex Product 194,Home & Kitchen,Nexa,20346.48,2025-02-12 00:00:00
+195,Nexa Product 195,Home & Kitchen,Orbit,22371.0,2026-03-31 00:00:00
+196,Stride Product 196,Home & Kitchen,Prime,52633.94,2025-10-16 00:00:00
+197,Zenith Product 197,Home & Kitchen,Aura,28700.76,2025-07-10 00:00:00
+198,Nova Product 198,Home & Kitchen,Zenith,74747.13,2025-09-04 00:00:00
+199,Apex Product 199,Home & Kitchen,Stride,10156.95,2025-05-03 00:00:00
+200,Nexa Product 200,Home & Kitchen,Prime,52050.4,2026-05-23 00:00:00
+201,Aura Product 201,Fashion,Aura,14529.02,2026-03-06 00:00:00
+202,Zenith Product 202,Fashion,Nexa,47611.42,2025-04-19 00:00:00
+203,Aura Product 203,Fashion,Zenith,49795.25,2026-02-05 00:00:00
+204,Prime Product 204,Fashion,Stride,57859.45,2025-04-08 00:00:00
+205,Nova Product 205,Fashion,Apex,38553.13,2025-09-05 00:00:00
+206,Apex Product 206,Fashion,Stride,45925.3,2026-02-13 00:00:00
+207,Prime Product 207,Fashion,Zenith,16407.59,2025-01-20 00:00:00
+208,Aura Product 208,Fashion,Stride,41750.93,2026-01-31 00:00:00
+209,Stride Product 209,Fashion,Zenith,33665.78,2025-05-04 00:00:00
+210,Orbit Product 210,Fashion,Zenith,60000.88,2026-01-17 00:00:00
+211,Zenith Product 211,Fashion,Prime,39217.73,2025-09-30 00:00:00
+212,Aura Product 212,Fashion,Stride,70172.85,2025-01-15 00:00:00
+213,Apex Product 213,Fashion,Zenith,38424.39,2026-02-20 00:00:00
+214,Stride Product 214,Fashion,Orbit,21333.04,2025-05-22 00:00:00
+215,Aura Product 215,Fashion,Nova,24739.93,2026-06-04 00:00:00
+216,Orbit Product 216,Fashion,Orbit,4217.88,2026-04-03 00:00:00
+217,Stride Product 217,Fashion,Zenith,48660.71,2025-04-16 00:00:00
+218,Nexa Product 218,Fashion,Zenith,74803.65,2025-11-24 00:00:00
+219,Nova Product 219,Fashion,Aura,69253.69,2025-07-17 00:00:00
+220,Apex Product 220,Fashion,Prime,39484.38,2025-11-25 00:00:00
+221,Apex Product 221,Fashion,Apex,17770.41,2025-10-31 00:00:00
+222,Apex Product 222,Fashion,Zenith,77733.08,2025-06-11 00:00:00
+223,Apex Product 223,Fashion,Apex,5250.78,2025-12-22 00:00:00
+224,Stride Product 224,Fashion,Aura,36019.16,2025-05-22 00:00:00
+225,Prime Product 225,Fashion,Prime,77115.87,2026-05-10 00:00:00
+226,Nova Product 226,Fashion,Stride,35475.93,2026-05-31 00:00:00
+227,Stride Product 227,Fashion,Aura,10740.11,2025-04-01 00:00:00
+228,Orbit Product 228,Fashion,Apex,24044.56,2026-02-01 00:00:00
+229,Apex Product 229,Fashion,Zenith,54061.65,2026-05-22 00:00:00
+230,Zenith Product 230,Fashion,Nova,13809.43,2025-03-11 00:00:00
+231,Aura Product 231,Fashion,Apex,58994.94,2026-02-08 00:00:00
+232,Stride Product 232,Fashion,Aura,39517.85,2026-05-27 00:00:00
+233,Aura Product 233,Fashion,Aura,30193.9,2025-05-03 00:00:00
+234,Orbit Product 234,Fashion,Nova,21796.15,2025-11-14 00:00:00
+235,Zenith Product 235,Fashion,Apex,74125.2,2026-03-11 00:00:00
+236,Apex Product 236,Fashion,Nova,35790.15,2025-07-01 00:00:00
+237,Nexa Product 237,Fashion,Nova,66501.36,2025-05-10 00:00:00
+238,Apex Product 238,Fashion,Zenith,39714.91,2025-08-05 00:00:00
+239,Zenith Product 239,Fashion,Prime,8403.27,2025-07-02 00:00:00
+240,Aura Product 240,Fashion,Apex,39728.46,2026-01-31 00:00:00
+241,Nova Product 241,Fashion,Orbit,45764.75,2025-07-22 00:00:00
+242,Aura Product 242,Fashion,Zenith,41286.12,2025-07-25 00:00:00
+243,Stride Product 243,Fashion,Nova,73488.32,2026-05-30 00:00:00
+244,Apex Product 244,Fashion,Nova,81988.99,2025-11-12 00:00:00
+245,Apex Product 245,Fashion,Apex,70841.06,2026-05-22 00:00:00
+246,Prime Product 246,Fashion,Nexa,52511.95,2026-01-23 00:00:00
+247,Apex Product 247,Fashion,Apex,48798.28,2026-04-28 00:00:00
+248,Zenith Product 248,Fashion,Prime,58067.75,2025-04-17 00:00:00
+249,Zenith Product 249,Fashion,Zenith,26010.55,2026-05-27 00:00:00
+250,Nova Product 250,Fashion,Stride,73093.44,2026-05-30 00:00:00
+251,Stride Product 251,Fashion,Stride,77136.81,2025-01-23 00:00:00
+252,Nexa Product 252,Fashion,Zenith,24158.46,2025-07-14 00:00:00
+253,Apex Product 253,Fashion,Orbit,81267.22,2025-08-14 00:00:00
+254,Nova Product 254,Fashion,Nexa,76407.64,2025-08-17 00:00:00
+255,Zenith Product 255,Fashion,Stride,38289.14,2026-03-01 00:00:00
+256,Prime Product 256,Fashion,Zenith,81822.67,2026-01-16 00:00:00
+257,Zenith Product 257,Fashion,Prime,10970.44,2025-04-27 00:00:00
+258,Apex Product 258,Fashion,Nova,2663.59,2025-11-28 00:00:00
+259,Orbit Product 259,Fashion,Orbit,31404.83,2026-06-16 00:00:00
+260,Nova Product 260,Fashion,Apex,50953.4,2025-08-28 00:00:00
+261,Apex Product 261,Fashion,Nova,31726.12,2026-05-21 00:00:00
+262,Apex Product 262,Fashion,Nova,84793.79,2025-12-21 00:00:00
+263,Orbit Product 263,Fashion,Apex,23034.71,2026-05-20 00:00:00
+264,Nexa Product 264,Fashion,Orbit,25416.02,2026-05-08 00:00:00
+265,Zenith Product 265,Fashion,Apex,57188.26,2025-01-10 00:00:00
+266,Aura Product 266,Fashion,Aura,496.17,2026-03-13 00:00:00
+267,Nova Product 267,Fashion,Zenith,65520.0,2025-04-14 00:00:00
+268,Prime Product 268,Fashion,Nova,34064.63,2026-03-26 00:00:00
+269,Orbit Product 269,Fashion,Prime,87999.65,2026-03-17 00:00:00
+270,Nova Product 270,Fashion,Nova,62272.87,2025-05-21 00:00:00
+271,Orbit Product 271,Fashion,Prime,4840.51,2025-02-06 00:00:00
+272,Stride Product 272,Fashion,Aura,8471.61,2025-08-17 00:00:00
+273,Zenith Product 273,Fashion,Aura,8070.9,2025-06-15 00:00:00
+274,Stride Product 274,Fashion,Zenith,85742.11,2025-10-29 00:00:00
+275,Nexa Product 275,Fashion,Nexa,61611.03,2025-02-14 00:00:00
+276,Nexa Product 276,Fashion,Orbit,38569.4,2025-01-25 00:00:00
+277,Prime Product 277,Fashion,Prime,18162.37,2025-08-27 00:00:00
+278,Apex Product 278,Fashion,Aura,78645.53,2026-02-24 00:00:00
+279,Nova Product 279,Fashion,Apex,18258.8,2025-06-21 00:00:00
+280,Prime Product 280,Fashion,Stride,63644.13,2025-06-26 00:00:00
+281,Nova Product 281,Fashion,Zenith,68733.69,2025-03-31 00:00:00
+282,Prime Product 282,Fashion,Apex,26623.85,2025-06-04 00:00:00
+283,Zenith Product 283,Fashion,Prime,45515.59,2025-06-12 00:00:00
+284,Orbit Product 284,Fashion,Apex,20184.59,2025-05-22 00:00:00
+285,Prime Product 285,Fashion,Orbit,34195.83,2025-07-07 00:00:00
+286,Zenith Product 286,Fashion,Nexa,86866.33,2025-06-04 00:00:00
+287,Prime Product 287,Fashion,Apex,62427.45,2026-01-07 00:00:00
+288,Nexa Product 288,Fashion,Nexa,76217.29,2025-07-04 00:00:00
+289,Orbit Product 289,Fashion,Apex,48721.87,2026-02-16 00:00:00
+290,Zenith Product 290,Fashion,Nexa,21626.72,2025-11-26 00:00:00
+291,Aura Product 291,Fashion,Apex,64201.26,2025-12-16 00:00:00
+292,Apex Product 292,Fashion,Nova,45125.03,2025-11-15 00:00:00
+293,Orbit Product 293,Fashion,Zenith,16038.87,2026-05-18 00:00:00
+294,Orbit Product 294,Fashion,Zenith,37205.83,2025-05-20 00:00:00
+295,Aura Product 295,Fashion,Aura,57189.39,2026-06-20 00:00:00
+296,Zenith Product 296,Fashion,Nexa,66218.57,2025-04-23 00:00:00
+297,Aura Product 297,Fashion,Zenith,22002.39,2025-03-17 00:00:00
+298,Stride Product 298,Fashion,Aura,78857.36,2026-03-27 00:00:00
+299,Apex Product 299,Fashion,Zenith,34251.67,2026-05-04 00:00:00
+300,Orbit Product 300,Fashion,Orbit,24510.63,2025-02-20 00:00:00
+301,Aura Product 301,Beauty,Orbit,17680.54,2025-11-23 00:00:00
+302,Zenith Product 302,Beauty,Nexa,72403.79,2025-10-07 00:00:00
+303,Prime Product 303,Beauty,Apex,31970.69,2025-04-30 00:00:00
+304,Apex Product 304,Beauty,Orbit,43582.4,2025-10-11 00:00:00
+305,Orbit Product 305,Beauty,Stride,20169.36,2026-01-09 00:00:00
+306,Prime Product 306,Beauty,Nexa,61794.28,2025-11-09 00:00:00
+307,Nexa Product 307,Beauty,Orbit,70324.85,2025-10-11 00:00:00
+308,Zenith Product 308,Beauty,Apex,30646.36,2026-04-28 00:00:00
+309,Aura Product 309,Beauty,Nova,85064.38,2025-05-03 00:00:00
+310,Zenith Product 310,Beauty,Zenith,2899.36,2025-12-07 00:00:00
+311,Nexa Product 311,Beauty,Zenith,12093.94,2025-06-22 00:00:00
+312,Aura Product 312,Beauty,Nexa,53051.51,2026-06-15 00:00:00
+313,Aura Product 313,Beauty,Zenith,63170.41,2025-05-18 00:00:00
+314,Nova Product 314,Beauty,Aura,22672.87,2026-04-20 00:00:00
+315,Prime Product 315,Beauty,Stride,49932.29,2025-12-11 00:00:00
+316,Apex Product 316,Beauty,Stride,28756.0,2025-04-28 00:00:00
+317,Orbit Product 317,Beauty,Apex,49933.92,2026-02-18 00:00:00
+318,Apex Product 318,Beauty,Apex,59389.59,2025-05-12 00:00:00
+319,Apex Product 319,Beauty,Aura,87555.8,2025-05-23 00:00:00
+320,Aura Product 320,Beauty,Orbit,41093.36,2025-07-07 00:00:00
+321,Apex Product 321,Beauty,Zenith,58391.21,2026-01-07 00:00:00
+322,Nexa Product 322,Beauty,Apex,52085.83,2025-08-02 00:00:00
+323,Apex Product 323,Beauty,Nexa,28681.31,2025-11-07 00:00:00
+324,Nexa Product 324,Beauty,Zenith,22886.81,2025-10-29 00:00:00
+325,Nexa Product 325,Beauty,Zenith,88909.18,2025-04-18 00:00:00
+326,Orbit Product 326,Beauty,Aura,18734.68,2025-05-07 00:00:00
+327,Zenith Product 327,Beauty,Nexa,71155.23,2025-06-17 00:00:00
+328,Prime Product 328,Beauty,Nexa,13319.88,2025-05-02 00:00:00
+329,Orbit Product 329,Beauty,Stride,72419.96,2026-05-16 00:00:00
+330,Nova Product 330,Beauty,Aura,16836.7,2025-07-27 00:00:00
+331,Apex Product 331,Beauty,Stride,87048.02,2025-08-09 00:00:00
+332,Aura Product 332,Beauty,Aura,61784.99,2026-01-02 00:00:00
+333,Prime Product 333,Beauty,Nexa,8246.12,2026-03-06 00:00:00
+334,Aura Product 334,Beauty,Zenith,62430.96,2026-01-11 00:00:00
+335,Apex Product 335,Beauty,Prime,54384.33,2025-10-28 00:00:00
+336,Apex Product 336,Beauty,Aura,30477.53,2026-06-16 00:00:00
+337,Zenith Product 337,Beauty,Aura,23576.13,2026-05-06 00:00:00
+338,Orbit Product 338,Beauty,Stride,64729.66,2025-04-21 00:00:00
+339,Stride Product 339,Beauty,Stride,66760.32,2025-03-29 00:00:00
+340,Apex Product 340,Beauty,Prime,29548.45,2025-08-03 00:00:00
+341,Nexa Product 341,Beauty,Aura,78878.01,2026-04-01 00:00:00
+342,Orbit Product 342,Beauty,Apex,24303.13,2026-06-10 00:00:00
+343,Orbit Product 343,Beauty,Aura,6426.32,2026-01-18 00:00:00
+344,Apex Product 344,Beauty,Prime,54047.13,2026-01-12 00:00:00
+345,Nova Product 345,Beauty,Apex,9769.29,2025-05-08 00:00:00
+346,Zenith Product 346,Beauty,Prime,25007.27,2025-11-19 00:00:00
+347,Nexa Product 347,Beauty,Nexa,45719.7,2025-04-11 00:00:00
+348,Aura Product 348,Beauty,Nova,25878.41,2025-10-22 00:00:00
+349,Zenith Product 349,Beauty,Prime,19466.42,2025-04-16 00:00:00
+350,Nexa Product 350,Beauty,Nova,63330.21,2025-02-11 00:00:00
+351,Aura Product 351,Beauty,Nexa,49296.89,2026-06-12 00:00:00
+352,Stride Product 352,Beauty,Stride,75601.55,2026-05-02 00:00:00
+353,Zenith Product 353,Beauty,Zenith,52373.38,2026-01-09 00:00:00
+354,Orbit Product 354,Beauty,Apex,43586.73,2025-12-07 00:00:00
+355,Nova Product 355,Beauty,Nova,23622.88,2025-05-11 00:00:00
+356,Zenith Product 356,Beauty,Nexa,71316.12,2025-11-08 00:00:00
+357,Zenith Product 357,Beauty,Nexa,17837.86,2026-02-12 00:00:00
+358,Zenith Product 358,Beauty,Zenith,21913.22,2025-10-22 00:00:00
+359,Aura Product 359,Beauty,Orbit,75765.74,2025-06-03 00:00:00
+360,Orbit Product 360,Beauty,Stride,66745.15,2025-08-02 00:00:00
+361,Nova Product 361,Beauty,Zenith,55215.68,2026-04-04 00:00:00
+362,Nexa Product 362,Beauty,Aura,3646.01,2025-05-19 00:00:00
+363,Prime Product 363,Beauty,Prime,11583.1,2026-06-08 00:00:00
+364,Aura Product 364,Beauty,Prime,45070.18,2026-02-16 00:00:00
+365,Stride Product 365,Beauty,Prime,67207.55,2026-05-01 00:00:00
+366,Zenith Product 366,Beauty,Nova,41848.46,2025-10-05 00:00:00
+367,Stride Product 367,Beauty,Zenith,1702.78,2025-05-02 00:00:00
+368,Nexa Product 368,Beauty,Apex,16705.66,2025-01-19 00:00:00
+369,Stride Product 369,Beauty,Zenith,53049.69,2025-10-19 00:00:00
+370,Orbit Product 370,Beauty,Aura,62524.4,2025-08-06 00:00:00
+371,Orbit Product 371,Beauty,Nova,3152.53,2025-03-03 00:00:00
+372,Aura Product 372,Beauty,Aura,4042.36,2026-05-22 00:00:00
+373,Prime Product 373,Beauty,Nexa,23627.71,2026-06-13 00:00:00
+374,Orbit Product 374,Beauty,Nova,7651.63,2025-07-23 00:00:00
+375,Apex Product 375,Beauty,Apex,48842.87,2025-12-31 00:00:00
+376,Orbit Product 376,Beauty,Apex,11263.62,2025-08-14 00:00:00
+377,Aura Product 377,Beauty,Stride,58391.51,2025-09-28 00:00:00
+378,Nexa Product 378,Beauty,Zenith,69982.69,2025-12-07 00:00:00
+379,Apex Product 379,Beauty,Nova,87349.92,2025-08-15 00:00:00
+380,Apex Product 380,Beauty,Zenith,85363.37,2026-03-13 00:00:00
+381,Apex Product 381,Beauty,Nexa,24710.86,2025-04-14 00:00:00
+382,Prime Product 382,Beauty,Zenith,2791.45,2025-12-31 00:00:00
+383,Apex Product 383,Beauty,Apex,29746.69,2026-06-20 00:00:00
+384,Zenith Product 384,Beauty,Prime,63805.94,2026-04-09 00:00:00
+385,Nova Product 385,Beauty,Apex,5522.14,2025-01-25 00:00:00
+386,Apex Product 386,Beauty,Nova,32469.18,2025-03-04 00:00:00
+387,Orbit Product 387,Beauty,Aura,26927.4,2025-12-09 00:00:00
+388,Stride Product 388,Beauty,Zenith,19857.21,2026-05-19 00:00:00
+389,Nova Product 389,Beauty,Zenith,63594.85,2026-04-05 00:00:00
+390,Aura Product 390,Beauty,Stride,59368.87,2026-05-08 00:00:00
+391,Zenith Product 391,Beauty,Zenith,48263.14,2025-03-23 00:00:00
+392,Stride Product 392,Beauty,Orbit,81982.1,2025-10-10 00:00:00
+393,Stride Product 393,Beauty,Stride,9416.03,2026-01-31 00:00:00
+394,Apex Product 394,Beauty,Aura,13598.58,2025-12-07 00:00:00
+395,Aura Product 395,Beauty,Nexa,34601.95,2026-02-28 00:00:00
+396,Nova Product 396,Beauty,Stride,59080.0,2025-04-26 00:00:00
+397,Prime Product 397,Beauty,Nova,52628.52,2025-09-07 00:00:00
+398,Nova Product 398,Beauty,Orbit,6801.74,2025-09-02 00:00:00
+399,Aura Product 399,Beauty,Apex,86263.47,2026-05-28 00:00:00
+400,Nexa Product 400,Beauty,Zenith,27559.07,2025-04-21 00:00:00
+401,Prime Product 401,Sports,Nova,32402.69,2025-06-27 00:00:00
+402,Nova Product 402,Sports,Nova,56182.14,2025-01-12 00:00:00
+403,Stride Product 403,Sports,Zenith,85072.12,2025-03-24 00:00:00
+404,Zenith Product 404,Sports,Zenith,59691.54,2026-06-19 00:00:00
+405,Prime Product 405,Sports,Nova,85935.38,2026-04-07 00:00:00
+406,Zenith Product 406,Sports,Aura,17004.06,2025-05-22 00:00:00
+407,Apex Product 407,Sports,Aura,55749.07,2026-01-18 00:00:00
+408,Nexa Product 408,Sports,Stride,74623.77,2025-11-20 00:00:00
+409,Zenith Product 409,Sports,Orbit,45884.85,2026-05-10 00:00:00
+410,Nexa Product 410,Sports,Orbit,32690.3,2025-06-13 00:00:00
+411,Nova Product 411,Sports,Prime,88629.55,2026-06-26 00:00:00
+412,Aura Product 412,Sports,Aura,12816.71,2025-07-21 00:00:00
+413,Stride Product 413,Sports,Zenith,37071.02,2026-01-26 00:00:00
+414,Aura Product 414,Sports,Orbit,78621.63,2025-08-05 00:00:00
+415,Zenith Product 415,Sports,Apex,81057.2,2026-01-01 00:00:00
+416,Nexa Product 416,Sports,Aura,88236.33,2025-07-02 00:00:00
+417,Apex Product 417,Sports,Zenith,79652.56,2026-04-05 00:00:00
+418,Nexa Product 418,Sports,Prime,4727.49,2025-12-14 00:00:00
+419,Prime Product 419,Sports,Aura,83688.52,2025-06-07 00:00:00
+420,Apex Product 420,Sports,Nova,38619.82,2026-06-08 00:00:00
+421,Orbit Product 421,Sports,Prime,58696.98,2026-01-22 00:00:00
+422,Orbit Product 422,Sports,Aura,35574.69,2025-08-22 00:00:00
+423,Stride Product 423,Sports,Zenith,73257.08,2025-03-16 00:00:00
+424,Orbit Product 424,Sports,Apex,51895.35,2026-06-15 00:00:00
+425,Orbit Product 425,Sports,Stride,76121.19,2026-02-16 00:00:00
+426,Prime Product 426,Sports,Stride,17559.37,2025-12-30 00:00:00
+427,Nova Product 427,Sports,Nexa,16769.73,2026-03-31 00:00:00
+428,Aura Product 428,Sports,Aura,39716.86,2025-11-27 00:00:00
+429,Prime Product 429,Sports,Aura,575.93,2025-05-07 00:00:00
+430,Orbit Product 430,Sports,Zenith,62401.84,2025-05-10 00:00:00
+431,Nova Product 431,Sports,Nova,26749.43,2025-02-13 00:00:00
+432,Stride Product 432,Sports,Nexa,50222.35,2025-02-04 00:00:00
+433,Stride Product 433,Sports,Aura,6438.82,2026-02-02 00:00:00
+434,Nova Product 434,Sports,Prime,15481.4,2026-04-10 00:00:00
+435,Nexa Product 435,Sports,Orbit,56112.9,2025-03-31 00:00:00
+436,Nova Product 436,Sports,Apex,27612.79,2025-11-09 00:00:00
+437,Stride Product 437,Sports,Apex,19441.77,2025-03-09 00:00:00
+438,Nexa Product 438,Sports,Apex,20710.86,2025-08-14 00:00:00
+439,Orbit Product 439,Sports,Nexa,19450.52,2026-03-07 00:00:00
+440,Nexa Product 440,Sports,Nexa,56112.16,2026-03-19 00:00:00
+441,Apex Product 441,Sports,Nova,15216.06,2026-06-02 00:00:00
+442,Nova Product 442,Sports,Prime,32738.17,2025-06-19 00:00:00
+443,Nexa Product 443,Sports,Orbit,61955.63,2026-06-02 00:00:00
+444,Zenith Product 444,Sports,Zenith,46302.34,2026-03-04 00:00:00
+445,Aura Product 445,Sports,Apex,53814.69,2025-07-04 00:00:00
+446,Nexa Product 446,Sports,Apex,22692.99,2025-06-28 00:00:00
+447,Nova Product 447,Sports,Prime,83953.43,2025-02-28 00:00:00
+448,Apex Product 448,Sports,Nova,37336.05,2026-05-17 00:00:00
+449,Aura Product 449,Sports,Orbit,25932.71,2025-04-21 00:00:00
+450,Stride Product 450,Sports,Prime,81402.71,2025-05-27 00:00:00
+451,Prime Product 451,Sports,Prime,59026.77,2025-08-14 00:00:00
+452,Apex Product 452,Sports,Nova,55312.04,2025-03-16 00:00:00
+453,Zenith Product 453,Sports,Prime,79822.11,2026-03-16 00:00:00
+454,Aura Product 454,Sports,Orbit,5408.84,2026-01-16 00:00:00
+455,Apex Product 455,Sports,Apex,75414.5,2025-03-27 00:00:00
+456,Stride Product 456,Sports,Nova,61055.11,2025-03-30 00:00:00
+457,Nova Product 457,Sports,Stride,32494.35,2025-01-12 00:00:00
+458,Zenith Product 458,Sports,Nova,23182.17,2026-06-02 00:00:00
+459,Orbit Product 459,Sports,Nova,9565.81,2025-08-26 00:00:00
+460,Prime Product 460,Sports,Nexa,84704.51,2025-12-24 00:00:00
+461,Stride Product 461,Sports,Apex,12899.8,2025-03-23 00:00:00
+462,Aura Product 462,Sports,Orbit,23459.55,2025-05-06 00:00:00
+463,Nexa Product 463,Sports,Nova,62244.98,2025-10-23 00:00:00
+464,Orbit Product 464,Sports,Nexa,63956.2,2025-04-24 00:00:00
+465,Nexa Product 465,Sports,Orbit,14594.07,2025-12-01 00:00:00
+466,Aura Product 466,Sports,Aura,73298.68,2026-05-19 00:00:00
+467,Zenith Product 467,Sports,Prime,45998.31,2025-06-16 00:00:00
+468,Orbit Product 468,Sports,Nexa,76382.83,2025-11-28 00:00:00
+469,Apex Product 469,Sports,Aura,7991.59,2026-05-15 00:00:00
+470,Stride Product 470,Sports,Nexa,3997.28,2026-05-03 00:00:00
+471,Stride Product 471,Sports,Zenith,57382.59,2025-01-05 00:00:00
+472,Zenith Product 472,Sports,Apex,13628.64,2025-03-02 00:00:00
+473,Zenith Product 473,Sports,Nexa,47315.67,2026-06-22 00:00:00
+474,Nexa Product 474,Sports,Aura,1416.67,2026-05-20 00:00:00
+475,Aura Product 475,Sports,Apex,70225.64,2025-06-25 00:00:00
+476,Nova Product 476,Sports,Zenith,80971.79,2025-10-11 00:00:00
+477,Nexa Product 477,Sports,Nova,75522.62,2025-11-09 00:00:00
+478,Prime Product 478,Sports,Aura,86257.0,2025-12-31 00:00:00
+479,Apex Product 479,Sports,Stride,81292.15,2026-02-13 00:00:00
+480,Prime Product 480,Sports,Nova,40044.02,2025-07-23 00:00:00
+481,Orbit Product 481,Sports,Orbit,35940.59,2026-05-01 00:00:00
+482,Nova Product 482,Sports,Zenith,80671.1,2025-02-02 00:00:00
+483,Zenith Product 483,Sports,Zenith,83434.45,2025-01-18 00:00:00
+484,Aura Product 484,Sports,Stride,87558.31,2026-06-07 00:00:00
+485,Aura Product 485,Sports,Apex,69182.3,2025-04-07 00:00:00
+486,Nexa Product 486,Sports,Apex,18297.7,2026-06-27 00:00:00
+487,Nova Product 487,Sports,Prime,85053.13,2025-06-05 00:00:00
+488,Zenith Product 488,Sports,Prime,85249.66,2025-07-18 00:00:00
+489,Prime Product 489,Sports,Zenith,60000.9,2025-01-16 00:00:00
+490,Stride Product 490,Sports,Zenith,77175.63,2026-05-30 00:00:00
+491,Orbit Product 491,Sports,Nexa,50570.7,2025-07-15 00:00:00
+492,Apex Product 492,Sports,Stride,84978.81,2025-04-02 00:00:00
+493,Aura Product 493,Sports,Zenith,8589.19,2025-09-21 00:00:00
+494,Stride Product 494,Sports,Nexa,77776.14,2025-03-26 00:00:00
+495,Stride Product 495,Sports,Orbit,5136.0,2026-03-07 00:00:00
+496,Zenith Product 496,Sports,Nexa,30617.77,2025-02-09 00:00:00
+497,Nexa Product 497,Sports,Aura,12308.01,2025-09-30 00:00:00
+498,Aura Product 498,Sports,Nova,43199.29,2025-08-02 00:00:00
+499,Aura Product 499,Sports,Aura,21016.32,2025-01-21 00:00:00
+500,Zenith Product 500,Sports,Prime,85692.7,2025-01-29 00:00:00

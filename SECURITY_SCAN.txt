@@ -1,0 +1,3 @@
+01_Bronze_Layer.ipynb: {'live_dapi_pattern': False, 'bearer_literal': False}
+02_Silver_Layer.ipynb: {'live_dapi_pattern': False, 'bearer_literal': False}
+03_Gold_Layer.ipynb: {'live_dapi_pattern': False, 'bearer_literal': False}
