@@ -2,7 +2,7 @@
 
 A complete end-to-end Azure data engineering project that ingests retail data from Azure SQL, orchestrates batch and incremental movement with Azure Data Factory, processes data through a Databricks Medallion Architecture, stores analytics-ready outputs in ADLS Gen2, and serves business insights through Power BI.
 
-The project demonstrates practical data engineering patterns rather than a single notebook or isolated ETL script: metadata-driven ingestion, stateful watermark processing, cross-service orchestration, multi-task Databricks jobs, data-quality validation, Gold-layer aggregation, operational testing, and dashboard delivery.
+The project demonstrates practical data engineering patterns rather than a single notebook or isolated ETL script: metadata-driven ingestion, stateful watermark processing, cross-service orchestration, multi-task Databricks jobs, data-quality validation, Gold-layer aggregation, operational testing, and dashboard  delivery.
 
 ![Project Architecture](architecture/retail-data-engineering-architecture.png)
 
